@@ -23,7 +23,7 @@ The analysis was performed using **Power BI** and structured reporting methods f
 ![Dashboard Screenshot 3](https://github.com/Tejassahu/Retail-Analytics-Project/blob/b6e1942ca25ccf2354b5981cce2a025a9c6f45e3/dashboard_3.png)
 
 ## 📝 Reports
-- [Executive Summary]([report/README_Report.md](https://github.com/Tejassahu/Retail-Analytics-Project/blob/b6e1942ca25ccf2354b5981cce2a025a9c6f45e3/README_Report.md))  
+- <a href="https://github.com/Tejassahu/Retail-Analytics-Project/blob/main/README_Report.md">Executive Summary</a>
 - [Full Report (PDF)]([report/Retail_Analytics_Report.pdf](https://github.com/Tejassahu/Retail-Analytics-Project/blob/b6e1942ca25ccf2354b5981cce2a025a9c6f45e3/Retail_Analytics_Report.pdf))  
 
 ## ⚙️ Tools & Skills Used
