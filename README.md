@@ -24,7 +24,7 @@ The analysis was performed using **Power BI** and structured reporting methods f
 
 ## 📝 Reports
 - <a href="https://github.com/Tejassahu/Retail-Analytics-Project/blob/main/README_Report.md">Executive Summary</a>
-- [Full Report (PDF)]([report/Retail_Analytics_Report.pdf](https://github.com/Tejassahu/Retail-Analytics-Project/blob/b6e1942ca25ccf2354b5981cce2a025a9c6f45e3/Retail_Analytics_Report.pdf))  
+- <a href=https://github.com/Tejassahu/Retail-Analytics-Project/blob/main/Retail_Analytics_Report.pdf>Full Report (PDF)</a>
 
 ## ⚙️ Tools & Skills Used
 - **Power BI** – visualization & dashboard design  
